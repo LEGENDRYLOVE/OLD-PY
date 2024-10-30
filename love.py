@@ -135,7 +135,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://raw.githubusercontent.com/NADIMx/F-1/main/APPROVAL.txt").text
+	r1=requests.get("https://pastebin.com/ZFVN6iVz").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
@@ -148,7 +148,7 @@ def Subscraption():
 		os.system("clear")
 		print(logo)
 		print ("")
-		print(" \033[1;32m NADEEM Toll Free BUT You Need Get Approved First\033[1;37m\n")
+		print(" \033[1;32m LOVE Toll Free BUT You Need Get Approved First\033[1;37m\n")
 		print(" \033[1;32m Note : YE TOOL FREE OF COST HAI BHAI \033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
